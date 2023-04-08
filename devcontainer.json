@@ -1,0 +1,12 @@
+{
+    "name": "Neural Network for Wine Quality Classification",
+    "image": "tensorflow/tensorflow:latest-gpu",
+    "extensions": [
+      "ms-python.python",
+      "ms-toolsai.jupyter" 
+    ],
+    "settings": {
+      "python.pythonPath": "/usr/bin/python3"
+    }
+  }
+  
