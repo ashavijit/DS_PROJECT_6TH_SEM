@@ -29,4 +29,27 @@ pip install -r requirements.txt
 python app.py
 ```
 
+### How to make a pull request
+
+1. Fork the repository
+
+2. Swwitch to the development branch
+```bash
+git checkout dev
+```
+3. Create a new branch
+```bash
+git checkout -b <branch-name>
+```
+4. Make changes and commit
+```bash
+git add .
+git commit -m "commit message"
+```
+5. Push the changes
+```bash
+git push origin <branch-name>
+```
+6. Create a pull request
+
 
