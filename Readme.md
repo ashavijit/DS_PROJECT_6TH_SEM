@@ -1,3 +1,34 @@
+### 6th Semester Project Demo
+
+### Project Name:
+#### Wine Quality Prediction using Machine Learning Algorithms
+### Team Members
+1. [Sayak Ghosh]() - 20101106009
+2. [Rhitam Banerjee]() - 20101106003
+3. [Avijit Sen]() - 20101106040
+
+
+### Project Description
+
+The project is about predicting the quality of wine using machine learning algorithms. The dataset used for this project is the Wine Quality Dataset from Kaggle. The dataset contains 12 columns and 6497 rows. The columns are:
+1. Fixed Acidity
+2. Volatile Acidity
+3. Citric Acid
+4. Residual Sugar
+5. Chlorides
+6. Free Sulfur Dioxide
+7. Total Sulfur Dioxide
+8. Density
+9. pH
+10. Sulphates
+11. Alcohol
+12. Quality
+
+
+### Project Mentors
+1. [Shrayasi Dutta]()
+
+
 ### Run Instructions
 
 1. Clone the repository
@@ -50,6 +81,8 @@ git commit -m "commit message"
 ```bash
 git push origin <branch-name>
 ```
-6. Create a pull request
+
+
+
 
 
