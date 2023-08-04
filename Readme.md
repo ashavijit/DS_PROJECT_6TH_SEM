@@ -82,7 +82,20 @@ git commit -m "commit message"
 git push origin <branch-name>
 ```
 
+### Code Workflow
 
+1. Preprocessing the data
+2. Splitting the data into train and test sets
+3. Training the model
+4. Testing the model
+5. Saving the model
+6. Loading the model
+7. Predicting the quality of wine
+8. Displaying the results
+
+
+### Project Report
+[Project Report]( ./projectreport.md)
 
 
 
