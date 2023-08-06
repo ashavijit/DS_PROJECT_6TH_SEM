@@ -3,7 +3,7 @@
 ### Project Name:
 #### Wine Quality Prediction using Machine Learning Algorithms
 ### Team Members
-1. [Sayak Ghosh]() - 20101106009
+1. [Sayak Ghosh]() - 20101106010
 2. [Rhitam Banerjee]() - 20101106003
 3. [Avijit Sen]() - 20101106040
 
